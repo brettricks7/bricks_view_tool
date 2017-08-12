@@ -19,7 +19,7 @@ Or install it yourself as:
     $ gem install bricks_view_tool
 
 ## Usage
-```
+```ruby
 BricksViewTool::Renderer.copyright 'Brett Ricks', 'All rights reserved'
 ```
 ## Development
